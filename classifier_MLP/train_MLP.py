@@ -592,12 +592,12 @@ for epoch in range(num_epochs):
                 # 更新已有模型标记
                 last_train_epoch = train_epoch
             else:
-                save_epoch = train_epoch
+                save_epoch = int(train_epoch)
                 if last_train_epoch != cur_train_epochs:
                     history_train_method = 'MLP_{0}_{1}'.format(infor_method, last_train_epoch)
                     history_model_name = './test_{0}/model_{1}/record_{2}/{1}_{3}'.format(dataset_name, history_train_method, record_index, dataset_index)
                     net = torch.load(history_model_name, map_location=device)
-                    cur_train_epochs = last_train_epoch
+                    cur_train_epochs = int(last_train_epoch)
                 break
     
     if cur_train_epochs >= num_epochs:
