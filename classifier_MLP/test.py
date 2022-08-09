@@ -192,7 +192,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
 train_file_name = '/srv/scratch/z5102138/cifar10/all_train_data.pkl'
 train_label_name = '/srv/scratch/z5102138/cifar10/all_train_label.pkl'
 
-test_data_name = '/srv/scratch/z5102138/cifar10/all_test_data.pkl'
+test_file_name = '/srv/scratch/z5102138/cifar10/all_test_data.pkl'
 test_label_name = '/srv/scratch/z5102138/cifar10/all_test_label.pkl'
 
 
@@ -229,7 +229,7 @@ train_label = load_data(train_label_name)
 train_label = train_label.reshape(-1, 1)
 train_data = train_data.transpose(0, 3, 1, 2)
 
-test_data = load_data(test_data_name)
+test_data = load_data(test_file_name)
 test_label = load_data(test_label_name)
 test_label = test_label.reshape(-1, 1)
 test_data = test_data.transpose(0, 3, 1, 2)
