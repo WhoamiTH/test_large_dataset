@@ -335,8 +335,8 @@ general_vote_results[general_vote_results>=boundary_number] = 1
 general_vote_results = general_vote_results.reshape(-1,1)
 
 # 保存测试及预估结果数据
-test_predict_data_result = np.hstack((test_data, general_vote_results))
-np.savetxt(result_record_path+record_name_prefix+'.csv', test_predict_data_result, delimiter=',')
+# test_predict_data_result = np.hstack((test_data, general_vote_results))
+np.savetxt(result_record_path+record_name_prefix+'.csv', general_vote_results, delimiter=',')
 
 # 计算预估效果
 true_label = test_label
