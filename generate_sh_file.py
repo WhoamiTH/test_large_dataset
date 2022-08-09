@@ -135,7 +135,7 @@ for file_index in range(1, total_file_num+1):
     print(len(cur_command_list))
     with open('job_{0}.sh'.format(file_index), 'w') as fsh:
         fsh.write('#!/bin/bash\n')
-        fsh.write('set -e\n\n\n')
+        # fsh.write('set -e\n\n\n')
         for item_command_list in cur_command_list:
             for line in item_command_list:
                 if isinstance(line, str):
