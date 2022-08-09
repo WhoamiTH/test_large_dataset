@@ -20,17 +20,6 @@ which python
 
 
 
-mkdir -p ./test_yeast5/model_MLP_both_200/record_1/
-mkdir -p ./test_yeast5/model_MLP_both_500/record_1/
-mkdir -p ./test_yeast5/model_MLP_both_1000/record_1/
-mkdir -p ./test_yeast5/model_MLP_both_1500/record_1/
-
-
-
-python3 ./classifier_MLP/train_MLP.py dataset_name=yeast5 dataset_index=5 record_index=1 device_id=0 train_method=MLP_both_1500
-
-
-
 mkdir -p ./test_yeast5/result_MLP_im2_200_bm_num_10_half/record_1/
 python3 ./classifier_MLP/test.py dataset_name=yeast5 dataset_index=1 record_index=1 train_method=MLP_im2_200 test_method=bm_num_10_half device_id=0
 python3 ./classifier_MLP/test.py dataset_name=yeast5 dataset_index=2 record_index=1 train_method=MLP_im2_200 test_method=bm_num_10_half device_id=0
