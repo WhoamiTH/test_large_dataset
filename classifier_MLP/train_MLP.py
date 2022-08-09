@@ -570,7 +570,7 @@ for epoch in range(start_epochs+1, num_epochs+1):
         # print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
         print('epoch {:.0f}, loss {:.4f}'.format(epoch+1, train_loss) )
     if epoch == save_epoch:
-        cur_train_method_list = [model_type, infor_method, svm_name, str(save_epoch)]
+        cur_train_method_list = [model_type, infor_method, str(save_epoch)]
         cur_train_method = '_'.join(cur_train_method_list)
         cur_model_name = './test_{0}/model_{1}/record_{2}/{1}_{3}'.format(dataset_name, cur_train_method, record_index, dataset_index)
         torch.save(net, cur_model_name)
@@ -578,7 +578,7 @@ for epoch in range(start_epochs+1, num_epochs+1):
         print('save model {0}'.format(cur_model_name))
 
             
-cur_train_method_list = [model_type, infor_method, svm_name, str(save_epoch)]
+cur_train_method_list = [model_type, infor_method, str(save_epoch)]
 cur_train_method = '_'.join(cur_train_method_list)
 cur_model_name = './test_{0}/model_{1}/record_{2}/{1}_{3}'.format(dataset_name, cur_train_method, record_index, dataset_index)
 torch.save(net, cur_model_name)
