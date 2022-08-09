@@ -338,6 +338,8 @@ general_vote_results = general_vote_results.reshape(-1,1)
 # test_predict_data_result = np.hstack((test_data, general_vote_results))
 np.savetxt(result_record_path+record_name_prefix+'.csv', general_vote_results, delimiter=',')
 
+print(test_label.shape)
+print(test_label[:10])
 # 计算预估效果
 true_label = test_label
 predict_label = general_vote_results
