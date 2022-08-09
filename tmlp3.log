@@ -1,0 +1,3041 @@
+nohup: ignoring input
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+normal_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_1
+./test_yeast5/result_MLP_im3_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6959444444444445
+
+the Fscore is 0.30021812413246085
+
+the precision is 0.18723720009893643
+
+the recall is 0.757
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+normal_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_2
+./test_yeast5/result_MLP_im3_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6511111111111112
+
+the Fscore is 0.24900284900284902
+
+the precision is 0.1451827242524917
+
+the recall is 0.874
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+normal_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_3
+./test_yeast5/result_MLP_im3_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6341666666666667
+
+the Fscore is 0.3057943925233645
+
+the precision is 0.24417910447761193
+
+the recall is 0.409
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+normal_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_4
+./test_yeast5/result_MLP_im3_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.613
+
+the Fscore is 0.2781557067271353
+
+the precision is 0.2235722964763062
+
+the recall is 0.368
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+normal_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_5
+./test_yeast5/result_MLP_im3_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.7074444444444444
+
+the Fscore is 0.32757816145590296
+
+the precision is 0.21363359707851493
+
+the recall is 0.702
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_1
+./test_yeast5/result_MLP_im3_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6008333333333333
+
+the Fscore is 0.2480117820324006
+
+the precision is 0.1757828810020877
+
+the recall is 0.421
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_2
+./test_yeast5/result_MLP_im3_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5791666666666666
+
+the Fscore is 0.23640256959314773
+
+the precision is 0.20674157303370785
+
+the recall is 0.276
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_3
+./test_yeast5/result_MLP_im3_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6706111111111112
+
+the Fscore is 0.3040965066599648
+
+the precision is 0.20308828465928164
+
+the recall is 0.605
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_4
+./test_yeast5/result_MLP_im3_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.616111111111111
+
+the Fscore is 0.25356265356265356
+
+the precision is 0.16807817589576549
+
+the recall is 0.516
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_5
+./test_yeast5/result_MLP_im3_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6141111111111112
+
+the Fscore is 0.26395631067961167
+
+the precision is 0.18945993031358885
+
+the recall is 0.435
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_1
+./test_yeast5/result_MLP_im3_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.654611111111111
+
+the Fscore is 0.27965155237882505
+
+the precision is 0.18004026459591602
+
+the recall is 0.626
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_2
+./test_yeast5/result_MLP_im3_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6637777777777777
+
+the Fscore is 0.2732055618188651
+
+the precision is 0.16820916242480333
+
+the recall is 0.727
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_3
+./test_yeast5/result_MLP_im3_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6838888888888889
+
+the Fscore is 0.3143564356435644
+
+the precision is 0.20888157894736842
+
+the recall is 0.635
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_4
+./test_yeast5/result_MLP_im3_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6604444444444444
+
+the Fscore is 0.28859690286250583
+
+the precision is 0.1885346413243409
+
+the recall is 0.615
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_5
+./test_yeast5/result_MLP_im3_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6950555555555555
+
+the Fscore is 0.2898550724637681
+
+the precision is 0.17650904336456744
+
+the recall is 0.81
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_1
+./test_yeast5/result_MLP_im3_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6987777777777777
+
+the Fscore is 0.3022610075366918
+
+the precision is 0.1885205343889164
+
+the recall is 0.762
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_2
+./test_yeast5/result_MLP_im3_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6502777777777777
+
+the Fscore is 0.24847192608386637
+
+the precision is 0.1448218724109362
+
+the recall is 0.874
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_3
+./test_yeast5/result_MLP_im3_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6347222222222223
+
+the Fscore is 0.306145251396648
+
+the precision is 0.24391691394658754
+
+the recall is 0.411
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_4
+./test_yeast5/result_MLP_im3_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6127222222222222
+
+the Fscore is 0.27763108261033576
+
+the precision is 0.22289521502119927
+
+the recall is 0.368
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+normal_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_5
+./test_yeast5/result_MLP_im3_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.7077222222222223
+
+the Fscore is 0.3282603605712948
+
+the precision is 0.21430755120758177
+
+the recall is 0.701
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+bm_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_1
+./test_yeast5/result_MLP_im3_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6953333333333334
+
+the Fscore is 0.30116606353035785
+
+the precision is 0.18847508807247107
+
+the recall is 0.749
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+bm_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_2
+./test_yeast5/result_MLP_im3_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6515555555555556
+
+the Fscore is 0.2500724427702115
+
+the precision is 0.14622161978990172
+
+the recall is 0.863
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+bm_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_3
+./test_yeast5/result_MLP_im3_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6319444444444445
+
+the Fscore is 0.3024208566108007
+
+the precision is 0.24094955489614242
+
+the recall is 0.406
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+bm_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_4
+./test_yeast5/result_MLP_im3_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6124444444444445
+
+the Fscore is 0.27681920480120026
+
+the precision is 0.22148859543817526
+
+the recall is 0.369
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+bm_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_5
+./test_yeast5/result_MLP_im3_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.7082777777777779
+
+the Fscore is 0.3305628116836856
+
+the precision is 0.21675490501401432
+
+the recall is 0.696
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_1
+./test_yeast5/result_MLP_im3_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.589
+
+the Fscore is 0.23672971323978034
+
+the precision is 0.17032484635645304
+
+the recall is 0.388
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_2
+./test_yeast5/result_MLP_im3_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5786111111111112
+
+the Fscore is 0.23585313174946004
+
+the precision is 0.20760456273764258
+
+the recall is 0.273
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_3
+./test_yeast5/result_MLP_im3_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6723888888888888
+
+the Fscore is 0.30765293063731763
+
+the precision is 0.2067423460612315
+
+the recall is 0.601
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_4
+./test_yeast5/result_MLP_im3_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6107222222222222
+
+the Fscore is 0.25096227867590454
+
+the precision is 0.16879530548843633
+
+the recall is 0.489
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_5
+./test_yeast5/result_MLP_im3_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6089444444444445
+
+the Fscore is 0.2620200064536948
+
+the precision is 0.19342544068604098
+
+the recall is 0.406
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_1
+./test_yeast5/result_MLP_im3_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6552222222222223
+
+the Fscore is 0.28161965423111923
+
+the precision is 0.18227326266195523
+
+the recall is 0.619
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_2
+./test_yeast5/result_MLP_im3_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6645555555555556
+
+the Fscore is 0.2754905732974221
+
+the precision is 0.17055740828966173
+
+the recall is 0.716
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_3
+./test_yeast5/result_MLP_im3_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6780555555555556
+
+the Fscore is 0.31620553359683795
+
+the precision is 0.2146690518783542
+
+the recall is 0.6
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_4
+./test_yeast5/result_MLP_im3_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6591666666666666
+
+the Fscore is 0.28891537544696066
+
+the precision is 0.18967136150234742
+
+the recall is 0.606
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_5
+./test_yeast5/result_MLP_im3_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6978333333333333
+
+the Fscore is 0.2941717227431513
+
+the precision is 0.18022077044379364
+
+the recall is 0.8
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_1
+./test_yeast5/result_MLP_im3_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6981111111111111
+
+the Fscore is 0.302763315979175
+
+the precision is 0.18928392588883325
+
+the recall is 0.756
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_2
+./test_yeast5/result_MLP_im3_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6527777777777778
+
+the Fscore is 0.2507982583454282
+
+the precision is 0.1466893039049236
+
+the recall is 0.864
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_3
+./test_yeast5/result_MLP_im3_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6317222222222222
+
+the Fscore is 0.3027351067815662
+
+the precision is 0.24206111443978431
+
+the recall is 0.404
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_4
+./test_yeast5/result_MLP_im3_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6121111111111112
+
+the Fscore is 0.2759134973900075
+
+the precision is 0.21997621878715815
+
+the recall is 0.37
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+bm_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_5
+./test_yeast5/result_MLP_im3_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.7058333333333333
+
+the Fscore is 0.3286563614744352
+
+the precision is 0.215600624024961
+
+the recall is 0.691
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+im_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_1
+./test_yeast5/result_MLP_im3_200_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+im_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_2
+./test_yeast5/result_MLP_im3_200_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5018888888888888
+
+the Fscore is 0.00984251968503937
+
+the precision is 0.3125
+
+the recall is 0.005
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+im_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_3
+./test_yeast5/result_MLP_im3_200_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5113333333333333
+
+the Fscore is 0.05065666041275797
+
+the precision is 0.4090909090909091
+
+the recall is 0.027
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+im_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_4
+./test_yeast5/result_MLP_im3_200_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5065000000000001
+
+the Fscore is 0.030680728667305847
+
+the precision is 0.37209302325581395
+
+the recall is 0.016
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+im_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_5
+./test_yeast5/result_MLP_im3_200_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5494444444444444
+
+the Fscore is 0.18394160583941607
+
+the precision is 0.34054054054054056
+
+the recall is 0.126
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+im_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_1
+./test_yeast5/result_MLP_im3_500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+im_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_2
+./test_yeast5/result_MLP_im3_500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5163888888888888
+
+the Fscore is 0.07354260089686099
+
+the precision is 0.3565217391304348
+
+the recall is 0.041
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+im_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_3
+./test_yeast5/result_MLP_im3_500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6073888888888889
+
+the Fscore is 0.28053517479499357
+
+the precision is 0.24677296886864086
+
+the recall is 0.325
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+im_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_4
+./test_yeast5/result_MLP_im3_500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+im_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_5
+./test_yeast5/result_MLP_im3_500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5025000000000001
+
+the Fscore is 0.01895734597156398
+
+the precision is 0.18181818181818182
+
+the recall is 0.01
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+im_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_1
+./test_yeast5/result_MLP_im3_1000_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+im_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_2
+./test_yeast5/result_MLP_im3_1000_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.513888888888889
+
+the Fscore is 0.06956521739130435
+
+the precision is 0.26666666666666666
+
+the recall is 0.04
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+im_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_3
+./test_yeast5/result_MLP_im3_1000_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5416666666666667
+
+the Fscore is 0.16453900709219857
+
+the precision is 0.28292682926829266
+
+the recall is 0.116
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+im_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_4
+./test_yeast5/result_MLP_im3_1000_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5192222222222223
+
+the Fscore is 0.0940032414910859
+
+the precision is 0.24786324786324787
+
+the recall is 0.058
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+im_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_5
+./test_yeast5/result_MLP_im3_1000_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6135
+
+the Fscore is 0.29409111411817773
+
+the precision is 0.26787181594083814
+
+the recall is 0.326
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+im_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_1
+./test_yeast5/result_MLP_im3_1500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+im_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_2
+./test_yeast5/result_MLP_im3_1500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5008333333333332
+
+the Fscore is 0.005911330049261084
+
+the precision is 0.2
+
+the recall is 0.003
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+im_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_3
+./test_yeast5/result_MLP_im3_1500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5106666666666667
+
+the Fscore is 0.04868913857677902
+
+the precision is 0.38235294117647056
+
+the recall is 0.026
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+im_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_4
+./test_yeast5/result_MLP_im3_1500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5075
+
+the Fscore is 0.03444976076555024
+
+the precision is 0.4
+
+the recall is 0.018
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+im_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_5
+./test_yeast5/result_MLP_im3_1500_im_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5492777777777778
+
+the Fscore is 0.18341892883345562
+
+the precision is 0.3443526170798898
+
+the recall is 0.125
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+both_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_1
+./test_yeast5/result_MLP_im3_200_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6119444444444444
+
+the Fscore is 0.26068759342301945
+
+the precision is 0.1859275053304904
+
+the recall is 0.436
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+both_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_2
+./test_yeast5/result_MLP_im3_200_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6016111111111111
+
+the Fscore is 0.23758784856041715
+
+the precision is 0.15362063910876575
+
+the recall is 0.524
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+both_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_3
+./test_yeast5/result_MLP_im3_200_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5860000000000001
+
+the Fscore is 0.2550200803212851
+
+the precision is 0.2560483870967742
+
+the recall is 0.254
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+both_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_4
+./test_yeast5/result_MLP_im3_200_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5649444444444445
+
+the Fscore is 0.21778011572856393
+
+the precision is 0.2297447280799112
+
+the recall is 0.207
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_200
+both_num_10_half
+./test_yeast5/model_MLP_im3_200/record_1/MLP_im3_200_5
+./test_yeast5/result_MLP_im3_200_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6408333333333333
+
+the Fscore is 0.3028475711892797
+
+the precision is 0.22770780856423173
+
+the recall is 0.452
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_1
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5401111111111112
+
+the Fscore is 0.1729834791059281
+
+the precision is 0.16824196597353497
+
+the recall is 0.178
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_2
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5512777777777779
+
+the Fscore is 0.19128466327108096
+
+the precision is 0.22033898305084745
+
+the recall is 0.169
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_3
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6414444444444445
+
+the Fscore is 0.297724399494311
+
+the precision is 0.21765249537892792
+
+the recall is 0.471
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_4
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5601666666666667
+
+the Fscore is 0.206367472190257
+
+the precision is 0.16739265712507778
+
+the recall is 0.269
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_5
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.557
+
+the Fscore is 0.20251937984496124
+
+the precision is 0.19642857142857142
+
+the recall is 0.209
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_1
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5903333333333334
+
+the Fscore is 0.2435629784272791
+
+the precision is 0.18676627534685167
+
+the recall is 0.35
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_2
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5978888888888889
+
+the Fscore is 0.2430751837196156
+
+the precision is 0.169424743892829
+
+the recall is 0.43
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_3
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6197777777777778
+
+the Fscore is 0.2884468247895945
+
+the precision is 0.23358116480793062
+
+the recall is 0.377
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_4
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6079444444444445
+
+the Fscore is 0.2629295962629296
+
+the precision is 0.19729594391587382
+
+the recall is 0.394
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_5
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6664444444444444
+
+the Fscore is 0.2984706462752837
+
+the precision is 0.19810085134250163
+
+the recall is 0.605
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_1
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6202222222222221
+
+the Fscore is 0.2719406674907293
+
+the precision is 0.1967799642218247
+
+the recall is 0.44
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_2
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5911111111111111
+
+the Fscore is 0.22915717539863328
+
+the precision is 0.14837758112094396
+
+the recall is 0.503
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_3
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5857222222222221
+
+the Fscore is 0.25577812018489987
+
+the precision is 0.26293558606124606
+
+the recall is 0.249
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_4
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5705
+
+the Fscore is 0.2283008942661757
+
+the precision is 0.24084350721420644
+
+the recall is 0.217
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_5
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6452222222222223
+
+the Fscore is 0.30667547918043625
+
+the precision is 0.22902270483711748
+
+the recall is 0.464
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_1
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5267222222222222
+
+the Fscore is 0.1298174442190669
+
+the precision is 0.20041753653444677
+
+the recall is 0.096
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_2
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5840555555555556
+
+the Fscore is 0.23541594753192957
+
+the precision is 0.17975751186083289
+
+the recall is 0.341
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_3
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5681111111111111
+
+the Fscore is 0.20489495343296513
+
+the precision is 0.11488948263298518
+
+the recall is 0.946
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_4
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6018888888888889
+
+the Fscore is 0.2437106918238994
+
+the precision is 0.1651278409090909
+
+the recall is 0.465
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_5
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5989444444444444
+
+the Fscore is 0.2390597649412353
+
+the precision is 0.15938646215405136
+
+the recall is 0.478
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_1
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5798888888888889
+
+the Fscore is 0.22411894273127758
+
+the precision is 0.15463525835866263
+
+the recall is 0.407
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_2
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5690555555555555
+
+the Fscore is 0.21370171976318017
+
+the precision is 0.14880251276010995
+
+the recall is 0.379
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_3
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5986111111111111
+
+the Fscore is 0.2389937106918239
+
+the precision is 0.15966386554621848
+
+the recall is 0.475
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_4
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5976666666666667
+
+the Fscore is 0.24220489977728288
+
+the precision is 0.16782407407407407
+
+the recall is 0.435
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_5
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5776111111111111
+
+the Fscore is 0.21944648542738182
+
+the precision is 0.14531300681154719
+
+the recall is 0.448
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_1
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5870555555555556
+
+the Fscore is 0.23412578994884142
+
+the precision is 0.16745587602238485
+
+the recall is 0.389
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_2
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5822222222222223
+
+the Fscore is 0.22840236686390536
+
+the precision is 0.16218487394957984
+
+the recall is 0.386
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_3
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.6168888888888889
+
+the Fscore is 0.2448233861144945
+
+the precision is 0.15359144167091188
+
+the recall is 0.603
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_4
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+(10000, 1)
+[[1]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [0]
+ [1]
+ [0]]
+the AUC is 0.5807777777777777
+
+the Fscore is 0.2288620470438652
+
+the precision is 0.16775396085740912
+
+the recall is 0.36
+
+Done
+/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/data/hantai/cifar10/all_train_data.pkl
+/data/hantai/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_5
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 316, in <module>
+    net = torch.load(model_name)
+  File "/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/torch/serialization.py", line 579, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/torch/serialization.py", line 230, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/home/hantai/anaconda3/envs/py36/lib/python3.6/site-packages/torch/serialization.py", line 211, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: './test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_5'
