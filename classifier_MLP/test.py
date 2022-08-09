@@ -256,6 +256,8 @@ test_label = load_data(test_label_name)
 test_label = test_label.reshape(-1, 1)
 test_data = test_data.transpose(0, 3, 1, 2)
 
+test_label = np.where(test_label!=3, 0, 1)
+
 positive_data, negative_data = divide_data(train_data, train_label)
 
 informative_minority_data = load_data(informative_minority_data_name)
