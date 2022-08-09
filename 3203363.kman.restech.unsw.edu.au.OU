@@ -1,0 +1,561 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 211, in <module>
+    print(test_file_name)
+NameError: name 'test_file_name' is not defined

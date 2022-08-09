@@ -1,0 +1,133 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_1
+----------------------
+
+
+
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_1
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_1
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_1
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_1
+epoch 101, loss 0.5768
+epoch 201, loss 0.5564
+save model ./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_1
+epoch 301, loss 0.5525
+epoch 401, loss 0.5196
+epoch 501, loss 0.5577
+save model ./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_1
+epoch 601, loss 0.5426
+epoch 701, loss 0.5529
+epoch 801, loss 0.5249
+epoch 901, loss 0.4774
+epoch 1001, loss 0.4599
+save model ./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_1
+epoch 1101, loss 0.5102
+epoch 1201, loss 0.5860
+epoch 1301, loss 0.4211
+epoch 1401, loss 0.4324
+epoch 1501, loss 0.5578
+save model ./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_1
+save model ./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_1
+running_time is 3148.0297350620003
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_2
+----------------------
+
+
+
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_2
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_2
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_2
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_2
+epoch 101, loss 0.5918
+epoch 201, loss 0.5851
+save model ./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_2
+epoch 301, loss 0.5558
+epoch 401, loss 0.5745
+epoch 501, loss 0.5210
+save model ./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_2
+epoch 601, loss 0.5105
+epoch 701, loss 0.5178
+epoch 801, loss 0.5195
+epoch 901, loss 0.4533
+epoch 1001, loss 0.4609
+save model ./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_2
+epoch 1101, loss 0.5299
+epoch 1201, loss 0.4901
+epoch 1301, loss 0.3999
+epoch 1401, loss 0.4841
+epoch 1501, loss 0.3974
+save model ./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_2
+save model ./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_2
+running_time is 3087.3723330079997
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_3
+----------------------
+
+
+
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_3
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_3
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_3
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_3
+epoch 101, loss 0.5799
+epoch 201, loss 0.5634
+save model ./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_3
+epoch 301, loss 0.4377
+epoch 401, loss 0.4719
+epoch 501, loss 0.5825
+save model ./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_3
+epoch 601, loss 0.5124
+epoch 701, loss 0.4844
+epoch 801, loss 0.4933
+epoch 901, loss 0.4526
+epoch 1001, loss 0.4389
+save model ./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_3
+epoch 1101, loss 0.4927
+epoch 1201, loss 0.4435
+epoch 1301, loss 0.5028
+epoch 1401, loss 0.4044
+epoch 1501, loss 0.4315
+save model ./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_3
+save model ./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_3
+running_time is 3087.509297995
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_4
+----------------------
+
+
+
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_4
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_4
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_4
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_4
+epoch 101, loss 0.5980
+epoch 201, loss 0.5282
+save model ./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_4
+epoch 301, loss 0.5203
+epoch 401, loss 0.5820
+epoch 501, loss 0.5378
+save model ./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_4
+epoch 601, loss 0.5186
+epoch 701, loss 0.5103
+epoch 801, loss 0.4697
+epoch 901, loss 0.4923
+epoch 1001, loss 0.4698
+save model ./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_4
+epoch 1101, loss 0.4556
+epoch 1201, loss 0.4461
+epoch 1301, loss 0.5455
+epoch 1401, loss 0.4597
+epoch 1501, loss 0.5196
+save model ./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_4
+save model ./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_4
+running_time is 3062.448361968

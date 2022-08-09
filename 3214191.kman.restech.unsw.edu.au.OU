@@ -1,0 +1,51 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_both2_1500/record_1/MLP_both2_1500_1
+----------------------
+
+
+
+./test_yeast5/model_MLP_both2_200/record_1/MLP_both2_200_1
+./test_yeast5/model_MLP_both2_500/record_1/MLP_both2_500_1
+epoch 1, loss 0.5449
+epoch 101, loss 0.5165
+epoch 201, loss 0.5056
+epoch 301, loss 0.4482
+epoch 401, loss 0.4292
+epoch 501, loss 0.5364
+epoch 601, loss 0.3689
+epoch 701, loss 0.3720
+epoch 801, loss 0.5084
+epoch 901, loss 0.4285
+epoch 1001, loss 0.4106
+epoch 1101, loss 0.3976
+epoch 1201, loss 0.3697
+save model ./test_yeast5/model_MLP_both2_200/record_1/MLP_both2_200_1
+running_time is 2629.171494181
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_both2_1500/record_1/MLP_both2_1500_2
+----------------------
+
+
+
+./test_yeast5/model_MLP_both2_200/record_1/MLP_both2_200_2
+./test_yeast5/model_MLP_both2_500/record_1/MLP_both2_500_2
+epoch 1, loss 0.5652
+epoch 101, loss 0.4956
+epoch 201, loss 0.4317
+epoch 301, loss 0.4840
+epoch 401, loss 0.4744
+epoch 501, loss 0.4626
+epoch 601, loss 0.4053
+epoch 701, loss 0.4238
+epoch 801, loss 0.4179
+epoch 901, loss 0.4188
+epoch 1001, loss 0.3949
+epoch 1101, loss 0.3719
+epoch 1201, loss 0.4823
+save model ./test_yeast5/model_MLP_both2_200/record_1/MLP_both2_200_2
+running_time is 2618.823208127

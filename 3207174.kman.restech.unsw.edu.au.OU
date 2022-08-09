@@ -1,0 +1,1281 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_1
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_2
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_3
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_4
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_500
+both_num_10_half
+./test_yeast5/model_MLP_im3_500/record_1/MLP_im3_500_5
+./test_yeast5/result_MLP_im3_500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_1
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_2
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_3
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_4
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1000
+both_num_10_half
+./test_yeast5/model_MLP_im3_1000/record_1/MLP_im3_1000_5
+./test_yeast5/result_MLP_im3_1000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_1
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_2
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_3
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_4
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_1500
+both_num_10_half
+./test_yeast5/model_MLP_im3_1500/record_1/MLP_im3_1500_5
+./test_yeast5/result_MLP_im3_1500_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_2000
+both_num_10_half
+./test_yeast5/model_MLP_im3_2000/record_1/MLP_im3_2000_1
+./test_yeast5/result_MLP_im3_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_2000
+both_num_10_half
+./test_yeast5/model_MLP_im3_2000/record_1/MLP_im3_2000_2
+./test_yeast5/result_MLP_im3_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_2000
+both_num_10_half
+./test_yeast5/model_MLP_im3_2000/record_1/MLP_im3_2000_3
+./test_yeast5/result_MLP_im3_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_2000
+both_num_10_half
+./test_yeast5/model_MLP_im3_2000/record_1/MLP_im3_2000_4
+./test_yeast5/result_MLP_im3_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_im3_2000
+both_num_10_half
+./test_yeast5/model_MLP_im3_2000/record_1/MLP_im3_2000_5
+./test_yeast5/result_MLP_im3_2000_both_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_1
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_2
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_3
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_4
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+normal_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_5
+./test_yeast5/result_MLP_both_200_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_1
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_2
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_3
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_4
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+normal_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_5
+./test_yeast5/result_MLP_both_500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_1
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_2
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_3
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_4
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+normal_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_5
+./test_yeast5/result_MLP_both_1000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+normal_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_1
+./test_yeast5/result_MLP_both_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+normal_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_2
+./test_yeast5/result_MLP_both_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+normal_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_3
+./test_yeast5/result_MLP_both_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+normal_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_4
+./test_yeast5/result_MLP_both_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+normal_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_5
+./test_yeast5/result_MLP_both_1500_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+normal_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_1
+./test_yeast5/result_MLP_both_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+normal_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_2
+./test_yeast5/result_MLP_both_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+normal_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_3
+./test_yeast5/result_MLP_both_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+normal_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_4
+./test_yeast5/result_MLP_both_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+normal_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_5
+./test_yeast5/result_MLP_both_2000_normal_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+bm_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_1
+./test_yeast5/result_MLP_both_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+bm_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_2
+./test_yeast5/result_MLP_both_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+bm_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_3
+./test_yeast5/result_MLP_both_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+bm_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_4
+./test_yeast5/result_MLP_both_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+bm_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_5
+./test_yeast5/result_MLP_both_200_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+bm_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_1
+./test_yeast5/result_MLP_both_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+bm_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_2
+./test_yeast5/result_MLP_both_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+bm_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_3
+./test_yeast5/result_MLP_both_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+bm_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_4
+./test_yeast5/result_MLP_both_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+bm_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_5
+./test_yeast5/result_MLP_both_500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+bm_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_1
+./test_yeast5/result_MLP_both_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+bm_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_2
+./test_yeast5/result_MLP_both_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+bm_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_3
+./test_yeast5/result_MLP_both_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+bm_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_4
+./test_yeast5/result_MLP_both_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1000
+bm_num_10_half
+./test_yeast5/model_MLP_both_1000/record_1/MLP_both_1000_5
+./test_yeast5/result_MLP_both_1000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+bm_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_1
+./test_yeast5/result_MLP_both_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+bm_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_2
+./test_yeast5/result_MLP_both_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+bm_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_3
+./test_yeast5/result_MLP_both_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+bm_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_4
+./test_yeast5/result_MLP_both_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_1500
+bm_num_10_half
+./test_yeast5/model_MLP_both_1500/record_1/MLP_both_1500_5
+./test_yeast5/result_MLP_both_1500_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+bm_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_1
+./test_yeast5/result_MLP_both_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+bm_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_2
+./test_yeast5/result_MLP_both_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+bm_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_3
+./test_yeast5/result_MLP_both_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+bm_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_4
+./test_yeast5/result_MLP_both_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_2000
+bm_num_10_half
+./test_yeast5/model_MLP_both_2000/record_1/MLP_both_2000_5
+./test_yeast5/result_MLP_both_2000_bm_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+im_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_1
+./test_yeast5/result_MLP_both_200_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+im_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_2
+./test_yeast5/result_MLP_both_200_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+im_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_3
+./test_yeast5/result_MLP_both_200_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+im_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_4
+./test_yeast5/result_MLP_both_200_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_200
+im_num_10_half
+./test_yeast5/model_MLP_both_200/record_1/MLP_both_200_5
+./test_yeast5/result_MLP_both_200_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+im_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_1
+./test_yeast5/result_MLP_both_500_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+im_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_2
+./test_yeast5/result_MLP_both_500_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+im_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_3
+./test_yeast5/result_MLP_both_500_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+im_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_4
+./test_yeast5/result_MLP_both_500_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+/srv/scratch/z5102138/cifar10/all_test_data.pkl
+MLP_both_500
+im_num_10_half
+./test_yeast5/model_MLP_both_500/record_1/MLP_both_500_5
+./test_yeast5/result_MLP_both_500_im_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/test.py", line 227, in <module>
+    train_data = load_data(train_file_name)
+NameError: name 'load_data' is not defined

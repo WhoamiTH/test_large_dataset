@@ -1,0 +1,76 @@
+/home/z5102138/anaconda3/envs/py36/bin/python
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_normal_1500/record_1/MLP_normal_1500_1
+----------------------
+
+
+
+./test_yeast5/model_MLP_normal_200/record_1/MLP_normal_200_1
+./test_yeast5/model_MLP_normal_500/record_1/MLP_normal_500_1
+epoch 1, loss 0.5080
+epoch 101, loss 0.4285
+epoch 201, loss 0.5225
+epoch 301, loss 0.4343
+epoch 401, loss 0.4429
+epoch 501, loss 0.5413
+epoch 601, loss 0.4613
+epoch 701, loss 0.4607
+epoch 801, loss 0.3955
+epoch 901, loss 0.4490
+epoch 1001, loss 0.4858
+epoch 1101, loss 0.4369
+epoch 1201, loss 0.3630
+save model ./test_yeast5/model_MLP_normal_200/record_1/MLP_normal_200_1
+running_time is 2625.77356015
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_normal_1500/record_1/MLP_normal_1500_2
+----------------------
+
+
+
+./test_yeast5/model_MLP_normal_200/record_1/MLP_normal_200_2
+./test_yeast5/model_MLP_normal_500/record_1/MLP_normal_500_2
+epoch 1, loss 0.4461
+epoch 101, loss 0.4730
+epoch 201, loss 0.4765
+epoch 301, loss 0.4448
+epoch 401, loss 0.5030
+epoch 501, loss 0.4197
+epoch 601, loss 0.4751
+epoch 701, loss 0.4014
+epoch 801, loss 0.3976
+epoch 901, loss 0.3728
+epoch 1001, loss 0.4425
+epoch 1101, loss 0.4880
+epoch 1201, loss 0.4294
+save model ./test_yeast5/model_MLP_normal_200/record_1/MLP_normal_200_2
+running_time is 2611.223055679
+/home/z5102138/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/srv/scratch/z5102138/cifar10/all_train_data.pkl
+./test_yeast5/model_MLP_normal_1500/record_1/MLP_normal_1500_3
+----------------------
+
+
+
+./test_yeast5/model_MLP_normal_200/record_1/MLP_normal_200_3
+./test_yeast5/model_MLP_normal_500/record_1/MLP_normal_500_3
+epoch 1, loss 0.4692
+epoch 101, loss 0.4722
+epoch 201, loss 0.4453
+epoch 301, loss 0.4486
+epoch 401, loss 0.3951
+epoch 501, loss 0.4681
+epoch 601, loss 0.4144
+epoch 701, loss 0.4625
+epoch 801, loss 0.4675
+epoch 901, loss 0.4824
+epoch 1001, loss 0.4900
+epoch 1101, loss 0.4373
+epoch 1201, loss 0.4690
+save model ./test_yeast5/model_MLP_normal_200/record_1/MLP_normal_200_3
+running_time is 2612.103506492
