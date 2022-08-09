@@ -473,7 +473,8 @@ dependency_dict = {
 
 
 # dependency_list = ['20000', '15000', '10000', '8000', '5000', '2000']
-dependency_list = ['2000', '1500', '1000', '500', '200']
+# dependency_list = ['2000', '1500', '1000', '500', '200']
+dependency_list = ['1500', '1000', '500', '200']
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
