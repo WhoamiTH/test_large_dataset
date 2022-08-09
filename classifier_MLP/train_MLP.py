@@ -348,7 +348,7 @@ device_id = '1'
 method_name = 'MLP_normal'
 train_method = 'MLP_bm_2000'
 num_epochs = 5000
-batch_size = 100
+batch_size = 16
 start_epochs = 0
 # ----------------------------------set parameters---------------------------------------
 set_para()
