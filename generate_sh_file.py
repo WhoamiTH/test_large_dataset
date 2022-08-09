@@ -18,7 +18,8 @@ record_index = 1
 
 train_infor_method_list = ['normal', 'bm', 'im', 'im2', 'im3', 'both', 'both2', 'both3']
 # early_stop_type_list = ['2000', '5000', '8000', '10000', '15000', '20000']
-early_stop_type_list = ['200', '500', '1000', '1500', '2000']
+# early_stop_type_list = ['200', '500', '1000', '1500', '2000']
+early_stop_type_list = ['200', '500', '1000', '1500']
 
 
 test_infor_method_list = [ 'normal', 'bm', 'im', 'both']

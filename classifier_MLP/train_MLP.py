@@ -80,11 +80,12 @@ def get_batch_size(batch_size, infor_method, positive_length, border_majority_le
         return min(informative_minority_length, batch_size)
     
     if infor_method == 'bm':
+        batch_size = min(positive_data, batch_size)
         return min(border_majority_length, batch_size)
     
     if infor_method == 'both' or infor_method == 'both2' or infor_method == 'both3':
-        return min(informative_minority_length, batch_size)
-     
+        batch_size = min(border_majority_length, batch_size)
+        return min(informative_minority_length, batch_size)     
 
 
 
@@ -350,6 +351,7 @@ train_method = 'MLP_bm_2000'
 num_epochs = 5000
 batch_size = 16
 start_epochs = 0
+save_epoch = 200
 # ----------------------------------set parameters---------------------------------------
 set_para()
 train_file_name = '/srv/scratch/z5102138/cifar10/all_train_data.pkl'
@@ -449,16 +451,29 @@ class Classification(nn.Module):
         return x
 
 
+# dependency_dict = {
+#     2000 : 5000,
+#     5000 : 8000,
+#     8000 : 10000,
+#     10000 : 15000,
+#     15000 : 20000,
+#     20000 : None
+# }
+
 dependency_dict = {
-    2000 : 5000,
-    5000 : 8000,
-    8000 : 10000,
-    10000 : 15000,
-    15000 : 20000,
-    20000 : None
+    200:500,
+    500:1000,
+    1000:1500,
+    1500:2000,
+    2000:None
 }
 
-dependency_list = ['20000', '15000', '10000', '8000', '5000', '2000']
+
+
+
+
+# dependency_list = ['20000', '15000', '10000', '8000', '5000', '2000']
+early_stop_type_list = ['2000', '1500', '1000', '500', '200']
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
@@ -538,7 +553,7 @@ for epoch in range(start_epochs+1, num_epochs+1):
     optimizer.step()
     train_loss = loss.item()
 
-    if epoch % 500 == 0:
+    if epoch % 100 == 0:
         # valid_output = net(input_valid_data)
         # result =  torch.ge(valid_output, 0.5) 
         # result = result.cpu()
@@ -554,7 +569,20 @@ for epoch in range(start_epochs+1, num_epochs+1):
         # auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
         # print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
         print('epoch {:.0f}, loss {:.4f}'.format(epoch+1, train_loss) )
-        
+    if epoch == save_epoch:
+        cur_train_method_list = [model_type, infor_method, svm_name, str(save_epoch)]
+        cur_train_method = '_'.join(cur_train_method_list)
+        cur_model_name = './test_{0}/model_{1}/record_{2}/{1}_{3}'.format(dataset_name, cur_train_method, record_index, dataset_index)
+        torch.save(net, cur_model_name)
+        save_epoch = dependency_dict[epoch]
+        print('save model {0}'.format(cur_model_name))
+
+            
+cur_train_method_list = [model_type, infor_method, svm_name, str(save_epoch)]
+cur_train_method = '_'.join(cur_train_method_list)
+cur_model_name = './test_{0}/model_{1}/record_{2}/{1}_{3}'.format(dataset_name, cur_train_method, record_index, dataset_index)
+torch.save(net, cur_model_name)
+print('save model {0}'.format(cur_model_name))   
 
 torch.save(net, model_name)
 
@@ -562,3 +590,4 @@ torch.save(net, model_name)
 finish = time.process_time()
 running_time = finish-start
 print('running_time is {0}'.format(running_time))
+
