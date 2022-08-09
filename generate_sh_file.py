@@ -111,7 +111,7 @@ print('train com num is {0}'.format(len(train_command_list)))
 print('test_num is {0}'.format(test_num))
 print('test com num is {0}'.format(len(test_command_list)))
 
-total_file_num = 4
+total_file_num = 10
 # total_length = len(command_list)
 train_start = 0
 test_start = 0
@@ -133,43 +133,9 @@ for file_index in range(1, total_file_num+1):
         cur_test_command_list = test_command_list[test_start:]
     cur_command_list = cur_train_command_list + cur_test_command_list
     print(len(cur_command_list))
-    with open('job_{0}.sh'.format(file_index), 'w') as fsh:
-        fsh.write('#!/bin/bash\n')
-        # fsh.write('set -e\n\n\n')
-        for item_command_list in cur_command_list:
-            for line in item_command_list:
-                if isinstance(line, str):
-                    fsh.write(line)
-                if isinstance(line, list):
-                    for sub_line in line:
-                        fsh.write(sub_line)
-
-
-
-
-
-
-
-
-
-
-
-
-
-        # fsh.write('# 选择资源\n\n\n')
-        # fsh.write('#PBS -N test_lg\n')
-        # fsh.write('#PBS -l ngpus=1\n')
-        # fsh.write('#PBS -l mem=46gb\n')
-        # fsh.write('#PBS -l ncpus=8\n')
-        # fsh.write('#PBS -l walltime=12:00:00\n')
-        # fsh.write('#PBS -M han.tai@student.unsw.edu.au\n')
-        # fsh.write('#PBS -m ae\n')
-        # fsh.write('#PBS -j oe\n\n')
-        # fsh.write('#PBS -o /srv/scratch/z5102138/test_large_dataset/\n')
-        # fsh.write('source ~/anaconda3/etc/profile.d/conda.sh\n')
-        # fsh.write('conda activate py36\n\n\n')
-        # fsh.write('cd /srv/scratch/z5102138/test_large_dataset\n')
-        # fsh.write('which python\n\n\n\n')
+    with open('job_{0}.qjob'.format(file_index), 'w') as fsh:
+        # fsh.write('#!/bin/bash\n')
+        # # fsh.write('set -e\n\n\n')
         # for item_command_list in cur_command_list:
         #     for line in item_command_list:
         #         if isinstance(line, str):
@@ -177,4 +143,29 @@ for file_index in range(1, total_file_num+1):
         #         if isinstance(line, list):
         #             for sub_line in line:
         #                 fsh.write(sub_line)
+
+
+
+
+        fsh.write('# 选择资源\n\n\n')
+        fsh.write('#PBS -N test_lg\n')
+        fsh.write('#PBS -l ngpus=1\n')
+        fsh.write('#PBS -l mem=46gb\n')
+        fsh.write('#PBS -l ncpus=8\n')
+        fsh.write('#PBS -l walltime=12:00:00\n')
+        fsh.write('#PBS -M han.tai@student.unsw.edu.au\n')
+        fsh.write('#PBS -m ae\n')
+        fsh.write('#PBS -j oe\n\n')
+        fsh.write('#PBS -o /srv/scratch/z5102138/test_large_dataset/\n')
+        fsh.write('source ~/anaconda3/etc/profile.d/conda.sh\n')
+        fsh.write('conda activate py36\n\n\n')
+        fsh.write('cd /srv/scratch/z5102138/test_large_dataset\n')
+        fsh.write('which python\n\n\n\n')
+        for item_command_list in cur_command_list:
+            for line in item_command_list:
+                if isinstance(line, str):
+                    fsh.write(line)
+                if isinstance(line, list):
+                    for sub_line in line:
+                        fsh.write(sub_line)
 
