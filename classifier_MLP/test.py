@@ -198,30 +198,30 @@ set_para()
 
 os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
 
-# train_file_name = '/srv/scratch/z5102138/cifar10/all_train_data.pkl'
-# train_label_name = '/srv/scratch/z5102138/cifar10/all_train_label.pkl'
+train_file_name = '/srv/scratch/z5102138/cifar10/all_train_data.pkl'
+train_label_name = '/srv/scratch/z5102138/cifar10/all_train_label.pkl'
 
-# test_file_name = '/srv/scratch/z5102138/cifar10/all_test_data.pkl'
-# test_label_name = '/srv/scratch/z5102138/cifar10/all_test_label.pkl'
-
-
-
-
-# informative_minority_data_name = '/srv/scratch/z5102138/cifar10/informative_minority_data.pkl'
-# border_majority_data_name = '/srv/scratch/z5102138/cifar10/border_majority_data.pkl'
-
-
-train_file_name = '/data/hantai/cifar10/all_train_data.pkl'
-train_label_name = '/data/hantai/cifar10/all_train_label.pkl'
-
-test_file_name = '/data/hantai/cifar10/all_test_data.pkl'
-test_label_name = '/data/hantai/cifar10/all_test_label.pkl'
+test_file_name = '/srv/scratch/z5102138/cifar10/all_test_data.pkl'
+test_label_name = '/srv/scratch/z5102138/cifar10/all_test_label.pkl'
 
 
 
 
-informative_minority_data_name = '/data/hantai/cifar10/informative_minority_data.pkl'
-border_majority_data_name = '/data/hantai/cifar10/border_majority_data.pkl'
+informative_minority_data_name = '/srv/scratch/z5102138/cifar10/informative_minority_data.pkl'
+border_majority_data_name = '/srv/scratch/z5102138/cifar10/border_majority_data.pkl'
+
+
+# train_file_name = '/data/hantai/cifar10/all_train_data.pkl'
+# train_label_name = '/data/hantai/cifar10/all_train_label.pkl'
+
+# test_file_name = '/data/hantai/cifar10/all_test_data.pkl'
+# test_label_name = '/data/hantai/cifar10/all_test_label.pkl'
+
+
+
+
+# informative_minority_data_name = '/data/hantai/cifar10/informative_minority_data.pkl'
+# border_majority_data_name = '/data/hantai/cifar10/border_majority_data.pkl'
 
 
 # ############################# 注意修改模型及方法名称 ##############################
